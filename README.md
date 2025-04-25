@@ -102,5 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Cryptocurrency data is simulated for demonstration purposes
 - Icons provided by [cryptologos.cc](https://cryptologos.cc)
-## Demo
-![Demo](demo.gif)
+
